@@ -1,0 +1,107 @@
+html {
+    height: 100%;
+}
+body {
+    min-height: 100vh;
+    background-color: rgb(230, 229, 229);
+}
+
+.contenedor{
+    max-width: 70vw;
+    margin-top: 100PX;
+    margin-left: 15vw;
+    height: auto;
+    background-color: #FFF;
+}
+.info{
+    max-width: 70vw;
+    height: 287px;
+    background-color:#efe1b5;   
+}
+img {
+    height: 237px;
+    width: 255px;
+    margin-left: 39%;
+    margin-top: 25px;
+    border-radius: 50%;
+    background-color:orange;
+    border: 1px solid black;  
+}
+.T1 {
+    margin-left: 24%;
+    font-size: 40px;
+}
+.T2 {
+    margin-left: 33%;
+    font-size: 32px;
+    color: orange;
+}
+.p1 {
+    margin-left: 50px;
+    font-size: 28px;
+}
+.p2 {
+    margin-left: 50px;
+    font-size: 28px;
+}
+.p3 {
+    margin-left: 50px;
+    font-size: 28px;
+}
+.p4 {
+    margin-left: 50px;
+    font-size: 28px;
+}
+.T3 {
+    margin-left: 39%;
+    color: orange; 
+    font-size: 32px;   
+}
+.p5 {
+    margin-left: 33%;
+    font-size: 28px;
+}
+.p6 {
+    margin-left: 33%;
+    font-size: 28px;
+}
+.p7 {
+    margin-left: 33%;
+    font-size: 28px;
+}
+.p8 {
+    margin-left: 33%;
+    font-size: 28px;
+}
+.footer {
+    height: 100px;
+    max-width: 70vw;
+    background-color:#efe1b5;  
+}
+.boton1 {
+    margin-top: 40px;
+    background-color:orange;
+    border: none;
+    border-radius: 30%;
+    display: inline;
+    margin-left: 10%;
+    font-size: 1.5rem;
+}
+.boton2 {
+    margin-top: 40px;
+    background-color:orange;
+    border: none;
+    border-radius: 20%; 
+    display: inline;
+    margin-left: 27%; 
+    font-size: 1.5rem;  
+}
+.boton3 {
+    margin-top: 40px;
+    background-color:orange;
+    border: none;
+    border-radius: 20%;
+    display: inline;
+    margin-left: 30%;
+    font-size: 1.5rem;
+}
