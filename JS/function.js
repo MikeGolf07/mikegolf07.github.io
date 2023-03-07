@@ -1,13 +1,13 @@
-function correo(email) {
-    alert(email);
+function email(){
+	alert("mikegolf07@gmail.com");
 }
 
-function telefono(numero) {
-    alert(numero)
+function telefono(){
+    alert("+549114272725");
 }
-function direccion(calle) {
-    alert(calle)
+
+function direccion(){
+    alert("Necochea 1045");
 }
-correo("mikegolf07@gmail.com");
-telefono("+549114272725");
-direccion("Necochea 1045");
+
+
